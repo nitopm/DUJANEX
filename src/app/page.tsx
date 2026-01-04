@@ -161,7 +161,7 @@ export default function Home() {
           <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a
               className="rounded-lg bg-white px-6 py-3 text-sm font-semibold text-zinc-900 hover:bg-zinc-100"
-              href="mailto:contacto@tuempresa.com"
+              href="mailto:DUJANEX@outlook.com"
             >
               Enviar correo
             </a>
